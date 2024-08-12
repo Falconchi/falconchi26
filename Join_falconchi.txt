@@ -1,9 +1,0 @@
-vless://00eecbfd-cfc3-4717-a071-a688a8ae2e01@www.parsvds.ir:8080?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=www.speedtest.net.svgspeedtest.net&type=ws#argo_vpnn
-
-vless://60cc8814-4b2d-4b37-a797-cde5cb9200bf@www.speedtest.net:80?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&security=none&encryption=none&host=all1.svgspeedtest.net&type=wsargo_vpnn
-
-vless://d8a95a51-294c-4460-9525-36ef4023434c@104.16.188.94:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
-
-vless://d8a95a51-294c-4460-9525-36ef4023434c@104.19.221.116:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
-
-vless://d8a95a51-294c-4460-9525-36ef4023434c@104.25.24.18:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
